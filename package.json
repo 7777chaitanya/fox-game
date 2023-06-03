@@ -1,0 +1,20 @@
+{
+  "name": "fox-game",
+  "version": "1.0.0",
+  "description": "This is a project that I built while following Brain Holt's course in Frontend masters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7777chaitanya/fox-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7777chaitanya/fox-game/issues"
+  },
+  "homepage": "https://github.com/7777chaitanya/fox-game#readme"
+}
